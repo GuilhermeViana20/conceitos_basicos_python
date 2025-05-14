@@ -1,5 +1,3 @@
-# atividade_02_metodos.py
-
 class ContaBancaria:
     def __init__(self, titular, saldo=0):
         self.titular = titular

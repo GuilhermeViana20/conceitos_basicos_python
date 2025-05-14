@@ -1,5 +1,3 @@
-# atividade_04_polimorfismo.py
-
 class Forma:
     def area(self):
         pass

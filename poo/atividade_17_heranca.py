@@ -1,5 +1,3 @@
-# atividade_03_heranca.py
-
 class Animal:
     def __init__(self, nome):
         self.nome = nome

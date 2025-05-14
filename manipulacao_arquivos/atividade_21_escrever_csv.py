@@ -1,5 +1,3 @@
-# atividade_03_escrever_csv.py
-
 import csv
 
 with open("usuarios.csv", "w", newline="") as csvfile:
